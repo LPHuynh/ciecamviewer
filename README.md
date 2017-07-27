@@ -25,8 +25,8 @@ CIECAM02 Viewer is CIECAM02-based colour space browser, colour schemer, and imag
 
 - Double-clicking the titlebar of any sub windows will roll/unroll them.
 - Clicking any slider while holding down the Ctrl key will allow you to enter a value
-- images to be analysed should be placed in the same folder as the executable. 
-- Jpeg, PNG, BMP, TGA, and Gif file format are supported by the image analyser. File extensions are automatically detected.
+- Images to be analysed should be placed in the same folder as the executable. 
+- Jpeg, PNG, BMP, TGA, and Gif file formats are supported by the image analyser. File extensions are automatically detected.
 
 ## Colour Schemer
 
@@ -39,9 +39,9 @@ CIECAM02 Viewer is CIECAM02-based colour space browser, colour schemer, and imag
 - It has been updated to utilize the newer CIECAM02 colour space.
 - In the original paper, "warm vs cool" is based solely on hue angle, closest to the orange or cyan hue angle. However, this would imply that brunt umber and sepia are warmer than pyrrole red. I disagree with this, and have made it so that the warmth vs coolness of a colour is based on its proportional colour differences from an imaginary orange (JCh: -,120,40) and cyan (JCh: -,120,220). The degree of impression does not have to be reevaluated since there are only one evaluation element affecting this Kansei scale.
 - "Gay vs quiet" is likely a mistranslation in the original paper, and has been renamed to "active vs passive" for better clarity (Original studies took place in Japan).
-- In the original paper, only the relative placement of colours on each Kansei scale to each other mattered. To better fit the goals of this program (colour schemes are rated independently from one another), I have set an arbitrary neutral point for each of the five scales and scaled each extremities accordingly.
-- Due to the numerous changes in methodology from the original paper, this program IS NOT representation of the original paper's work.
+- In the original paper, only the relative placement of colours on each Kansei scale to each other mattered. To better fit with the goals of this program (colour schemes are rated independently from one another), I have set an arbitrary neutral point for each of the five scales and scaled each extremities accordingly.
+- Due to the numerous changes in methodology from the original paper, this program SHOULD NOT BE USED as a representation of the original paper's work.
 
 ## Known Issues
 
-- Standard Illuminant E is known to give  erratic results. This is likely due to a div/0 error. However, given the multi-step complexity of the CIE XYZ -> CIECAM02 conversion process, the author of this program has not yet determined whether this div/0 is due to premature simplification of the mathematical formulas involved or if Standard Illuminant E is simply incompatible with the CIECAM02 colour space.
+- Standard Illuminant E is known to give  erratic results. This is likely due to a div/0 error. However, given the multi-step complexity of the CIE XYZ -> CIECAM02 conversion process, the author of this program has not yet determined whether this div/0 is due to plugging in known values too early or if Standard Illuminant E is simply incompatible with the CIECAM02 colour space.
