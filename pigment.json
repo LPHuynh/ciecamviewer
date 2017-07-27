@@ -1,0 +1,1517 @@
+{
+    "PB15": {
+        "alias": "berlin blue, phthalocyanine blue, blockx blue",
+        "chemical": "alpha copper phthalocyanine (1935), beta copper phthalocyanine (1933, 1935)",
+        "ciecam": {
+            "J": 27,
+            "a": -31,
+            "b": -48
+        },
+        "common_name": "phthalo blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB15"
+    },
+    "PB15b": {
+        "alias": "winsor blue RS, phthalo blue red, helio blue RS, phthalocyanine blue red shade",
+        "chemical": "alpha copper phthalocyanine (1935), epsilon copper phthalocyanine (1935), copper phthalocyanine",
+        "ciecam": {
+            "J": 24,
+            "a": -23,
+            "b": -49
+        },
+        "common_name": "phthalo blue RS",
+        "note": "",
+        "other_pigment": "PB15:6, PB15:0",
+        "pigment": "PB15:1"
+    },
+    "PB15c": {
+        "alias": "winsor blue GS, phthalo blue green, phthalo blue-cyan, manganese blue [hue]",
+        "chemical": "beta copper phthalocyanine (1933, 1935)",
+        "ciecam": {
+            "J": 28,
+            "a": -36,
+            "b": -48
+        },
+        "common_name": "phthalo blue GS",
+        "note": "in watercolour, manganese blue hue is much lighter and greener than other paint in this category; In other medium, manganese blue hue is usually a conveninent mixture.",
+        "other_pigment": "",
+        "pigment": "PB15:3"
+    },
+    "PB16": {
+        "alias": "turquoise green, marine blue, caribbean blue",
+        "chemical": "metal free phthalocyanine (1936)",
+        "ciecam": {
+            "J": 23,
+            "a": -36,
+            "b": -27
+        },
+        "common_name": "phthalo turquoise",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB16"
+    },
+    "PB27": {
+        "alias": "paris blue",
+        "chemical": "hydrous ferric ferrocyanide; ferriammonium ferrocyanide (1704; c.1730)",
+        "ciecam": {
+            "J": 19,
+            "a": -17,
+            "b": -36
+        },
+        "common_name": "prussian blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB27"
+    },
+    "PB27b": {
+        "alias": "",
+        "chemical": "hydrous ferric ferrocyanide; ferriammonium ferrocyanide (1704; c.1730)",
+        "ciecam": {
+            "J": 35,
+            "a": -29,
+            "b": -38
+        },
+        "common_name": "antwerp blue",
+        "note": "major lightfastness issue",
+        "other_pigment": "",
+        "pigment": "PB27"
+    },
+    "PB28": {
+        "alias": "cobalt blue deep, cobalt blue light",
+        "chemical": "cobalt aluminium oxide (1802; c.1820)",
+        "ciecam": {
+            "J": 34,
+            "a": -28,
+            "b": -60
+        },
+        "common_name": "cobalt blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB28"
+    },
+    "PB29": {
+        "alias": "french ultramarine blue, ultramarine deep, ultramarine GS, permanent blue, ultramarine light, ultramarine finest, ultramarine (green shade)",
+        "chemical": "sodium aluminum sulfosilicate (1828)",
+        "ciecam": {
+            "J": 21,
+            "a": -19,
+            "b": -68
+        },
+        "common_name": "ultramarine blue",
+        "note": "ultramarine deep and french ultramarine blue are the red shade of ultramarine blue.",
+        "other_pigment": "",
+        "pigment": "PB29"
+    },
+    "PB33": {
+        "alias": "",
+        "chemical": "barium manganate sulfate (1869; 1935)",
+        "ciecam": {
+            "J": 46,
+            "a": -49,
+            "b": -45
+        },
+        "common_name": "manganese blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB33"
+    },
+    "PB36": {
+        "alias": "genuine cerulean blue, cobalt turquoise RS, cerulean blue chromium, cobalt turquoise GS",
+        "chemical": "cobalt chromium oxide (1780; c.1870)",
+        "ciecam": {
+            "J": 37,
+            "a": -36,
+            "b": -45
+        },
+        "common_name": "cerulean blue",
+        "note": "this version of PB36 is very similar to a related cerulean blue pigment, PB35.",
+        "other_pigment": "",
+        "pigment": "PB36"
+    },
+    "PB36b": {
+        "alias": "",
+        "chemical": "cobalt chromium oxide (1780; c.1870)",
+        "ciecam": {
+            "J": 35,
+            "a": -39,
+            "b": -34
+        },
+        "common_name": "cerulean blue GS",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB36"
+    },
+    "PB36c": {
+        "alias": "cobalt teal, cobalt green deep",
+        "chemical": "cobalt chromium oxide (1780; c.1870), cobalt magnesium oxide",
+        "ciecam": {
+            "J": 39,
+            "a": -45,
+            "b": -17
+        },
+        "common_name": "cobalt turquoise",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB36"
+    },
+    "PB60": {
+        "alias": "indanthrene blue, old delft blue, faience blue, royal blue, delft blue, dark blue indigo, anthraquinone blue",
+        "chemical": "indanthrone [aminoanthraquinone + potassium hydroxide] (1901; 1958)",
+        "ciecam": {
+            "J": 18,
+            "a": 0,
+            "b": -32
+        },
+        "common_name": "indanthrone blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PB60"
+    },
+    "PB72": {
+        "alias": "",
+        "chemical": "cobalt zinc aluminate (1991), cobalt silicate (1991), cobalt zinc silicate",
+        "ciecam": {
+            "J": 29,
+            "a": -20,
+            "b": -62
+        },
+        "common_name": "cobalt blue deep",
+        "note": "",
+        "other_pigment": "PB73, PB74",
+        "pigment": "PB72"
+    },
+    "PBk11": {
+        "alias": "lunar black",
+        "chemical": "ferrosoferric oxide(c.1980)",
+        "ciecam": {
+            "J": 12,
+            "a": 0,
+            "b": 0
+        },
+        "common_name": "mars black",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBk11"
+    },
+    "PBk31": {
+        "alias": "perylene green",
+        "chemical": "perylene black (1948)",
+        "ciecam": {
+            "J": 21,
+            "a": -8,
+            "b": 8
+        },
+        "common_name": "perylene black",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBk31"
+    },
+    "PBr11": {
+        "alias": "lunar earth",
+        "chemical": "magnesium ferrite (1962)",
+        "ciecam": {
+            "J": 40,
+            "a": 36,
+            "b": 32
+        },
+        "common_name": "magnesium ferrite brown",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBr11"
+    },
+    "PBr24": {
+        "alias": "naples yellow deep, titanate gold ochre",
+        "chemical": "chrome titanium oxide (1946)",
+        "ciecam": {
+            "J": 68,
+            "a": 24,
+            "b": 48
+        },
+        "common_name": "chrome titanate",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBr24"
+    },
+    "PBr25": {
+        "alias": "permanent brown",
+        "chemical": "benzimidazolone brown (1960)",
+        "ciecam": {
+            "J": 31,
+            "a": 34,
+            "b": 21
+        },
+        "common_name": "benzimidazolone brown",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBr25"
+    },
+    "PBr33": {
+        "alias": "walnut brown",
+        "chemical": "zinc iron chromite (1974)",
+        "ciecam": {
+            "J": 25,
+            "a": 12,
+            "b": 8
+        },
+        "common_name": "chromite brown",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBr33"
+    },
+    "PBr41": {
+        "alias": "translucent brown",
+        "chemical": "disazo condensation brown (1951)",
+        "ciecam": {
+            "J": 29,
+            "a": 33,
+            "b": 21
+        },
+        "common_name": "disazo condensation brown",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PBr41"
+    },
+    "PBr7": {
+        "alias": "monte amiata natural sienna, italian earth, brown ochre",
+        "chemical": "natural iron oxide (antiquity)",
+        "ciecam": {
+            "J": 55,
+            "a": 23,
+            "b": 42
+        },
+        "common_name": "raw sienna",
+        "note": "this colour is highly variable across different manufacturers.",
+        "other_pigment": "",
+        "pigment": "PBr7"
+    },
+    "PBr7b": {
+        "alias": "monte amiata burnt sienna, italian burnt sienna, pompeii red, burnt sienna light, burnt sienna deep",
+        "chemical": "calcinated natural iron oxide (antiquity)",
+        "ciecam": {
+            "J": 37,
+            "a": 40,
+            "b": 27
+        },
+        "common_name": "burnt sienna",
+        "note": "this colour is highly variable across different manufacturers.",
+        "other_pigment": "",
+        "pigment": "PBr7"
+    },
+    "PBr7c": {
+        "alias": "german greenish raw umber",
+        "chemical": "natural iron manganese oxide (12th century?)",
+        "ciecam": {
+            "J": 34,
+            "a": 12,
+            "b": 20
+        },
+        "common_name": "raw umber",
+        "note": "this colour is highly variable across different manufacturers.",
+        "other_pigment": "",
+        "pigment": "PBr7"
+    },
+    "PBr7d": {
+        "alias": "",
+        "chemical": "calcinated natural iron manganese oxide (12th century?)",
+        "ciecam": {
+            "J": 28,
+            "a": 18,
+            "b": 16
+        },
+        "common_name": "burnt umber",
+        "note": "this colour is highly variable across different manufacturers.",
+        "other_pigment": "",
+        "pigment": "PBr7"
+    },
+    "PG17": {
+        "alias": "oxide of chromium, olive green, oxide of chromium green",
+        "chemical": "anhydrous chromium sesquioxide (1809; c.1840)",
+        "ciecam": {
+            "J": 35,
+            "a": -18,
+            "b": 16
+        },
+        "common_name": "chromium oxide green",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG17"
+    },
+    "PG18": {
+        "alias": "viridian green, emerald green",
+        "chemical": "hydrous chromium sesquioxide (1838; 1862)",
+        "ciecam": {
+            "J": 42,
+            "a": -48,
+            "b": 3
+        },
+        "common_name": "viridian",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG18"
+    },
+    "PG19": {
+        "alias": "cobalt green",
+        "chemical": "cobalt zinc oxide (1780, c.1835)",
+        "ciecam": {
+            "J": 50,
+            "a": -39,
+            "b": -7
+        },
+        "common_name": "cobalt green pale",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG19"
+    },
+    "PG26": {
+        "alias": "cobalt green deep",
+        "chemical": "cobalt chrome oxide (1780; c.1835)",
+        "ciecam": {
+            "J": 33,
+            "a": -27,
+            "b": 0
+        },
+        "common_name": "cobalt green dark",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG26"
+    },
+    "PG36": {
+        "alias": "cupric green light, bright green, bamboo green, winsor green YS, phthalocyanine green yellow shade",
+        "chemical": "chlorobrominated copper phthalocyanine (1938)",
+        "ciecam": {
+            "J": 39,
+            "a": -54,
+            "b": 18
+        },
+        "common_name": "phthalo green YS ",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG36"
+    },
+    "PG50": {
+        "alias": "cobalt teal, colbalt turquoise light",
+        "chemical": "cobalt titanium oxide (1992)",
+        "ciecam": {
+            "J": 56,
+            "a": -56,
+            "b": -19
+        },
+        "common_name": "cobalt teal blue",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG50"
+    },
+    "PG50b": {
+        "alias": "cobalt green [blue shade] ",
+        "chemical": "cobalt titanium nickel zinc oxide (1992)",
+        "ciecam": {
+            "J": 50,
+            "a": -48,
+            "b": 0
+        },
+        "common_name": "cobalt titanate BS",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG50"
+    },
+    "PG50c": {
+        "alias": "cobalt green deep, cobalt green pure, cobalt green light, cobalt green",
+        "chemical": "cobalt titanium nickel zinc oxide (1992)",
+        "ciecam": {
+            "J": 42,
+            "a": -41,
+            "b": 20
+        },
+        "common_name": "cobalt titanate YS",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG50"
+    },
+    "PG7": {
+        "alias": "winsor green BS, phthalocyanine green, phthalo green, cupric green deep, blockx green",
+        "chemical": "chlorinated copper phthalocyanine (1927; 1938)",
+        "ciecam": {
+            "J": 31,
+            "a": -51,
+            "b": 1
+        },
+        "common_name": "phthalo green bs",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PG7"
+    },
+    "PG8": {
+        "alias": "",
+        "chemical": "nitroso iron complex (1921)",
+        "ciecam": {
+            "J": 26,
+            "a": -19,
+            "b": 14
+        },
+        "common_name": "hooker's green",
+        "note": "major lightfastness issue.",
+        "other_pigment": "",
+        "pigment": "PG8"
+    },
+    "PO20": {
+        "alias": "cadmium yellow orange, cadmium red orange, cadmium orange light, cadmium orange deep",
+        "chemical": "cadmium sulfoselenide (1892; 1910)",
+        "ciecam": {
+            "J": 60,
+            "a": 59,
+            "b": 58
+        },
+        "common_name": "cadmium orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO20"
+    },
+    "PO36": {
+        "alia": "permanent vermilion, benzimida orange deep",
+        "alias": "",
+        "chemical": "benzimidazolone scarlet (1960)",
+        "ciecam": {
+            "J": 48,
+            "a": 76,
+            "b": 49
+        },
+        "common_name": "benzimidazolone vermilion",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO36"
+    },
+    "PO43": {
+        "alia": "orange lake",
+        "alias": "",
+        "chemical": "perinone orange (1965)",
+        "ciecam": {
+            "J": 53,
+            "a": 72,
+            "b": 52
+        },
+        "common_name": "perinone orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO43"
+    },
+    "PO48": {
+        "alias": "quinacridone rust, quinacridone burnt orange",
+        "chemical": "quinacridone orange (1958)",
+        "ciecam": {
+            "J": 42,
+            "a": 52,
+            "b": 37
+        },
+        "common_name": "quinacridone orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO48"
+    },
+    "PO49": {
+        "alias": "",
+        "chemical": "quinacridone gold (1958)",
+        "ciecam": {
+            "J": 52,
+            "a": 33,
+            "b": 50
+        },
+        "common_name": "quinacridone gold",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO49"
+    },
+    "PO62": {
+        "alia": "permanent orange, winsor orange, benzimidazolone orange, helio genuine orange, azo orange",
+        "alias": "",
+        "chemical": "benzimidazolone orange H5G (1960)",
+        "ciecam": {
+            "J": 65,
+            "a": 50,
+            "b": 59
+        },
+        "common_name": "benzimida orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO62"
+    },
+    "PO65": {
+        "alias": "golden barok red",
+        "chemical": "methin nickel complex",
+        "ciecam": {
+            "J": 33,
+            "a": 59,
+            "b": 25
+        },
+        "common_name": "nickel scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO65"
+    },
+    "PO67": {
+        "alias": "coral orange",
+        "chemical": "pyrazoloquinazolone orange (1967)",
+        "ciecam": {
+            "J": 51,
+            "a": 68,
+            "b": 48
+        },
+        "common_name": "pyrazoloquinazolone orange",
+        "note": "minor lightfastness issues.",
+        "other_pigment": "",
+        "pigment": "PO67"
+    },
+    "PO71": {
+        "alias": "translucent orange",
+        "chemical": "diketo-pyrrolo pyrrole orange (1984)",
+        "ciecam": {
+            "J": 50,
+            "a": 71,
+            "b": 46
+        },
+        "common_name": "pyrrole orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO71"
+    },
+    "PO73": {
+        "alia": "winsor orange RS, warm orange, scarlet pyrrol",
+        "alias": "",
+        "chemical": "diketo-pyrrolo pyrrole orange (1984)",
+        "ciecam": {
+            "J": 50,
+            "a": 75,
+            "b": 57
+        },
+        "common_name": "pyrrol orange",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PO73"
+    },
+    "PR101": {
+        "alias": "venetian red [mars red], italian venetian red, english red, english red earth, english red ochre, terra rosa, burnt sienna deep",
+        "chemical": "calcinated synthetic red iron oxide (19th century)",
+        "ciecam": {
+            "J": 31,
+            "a": 37,
+            "b": 19
+        },
+        "common_name": "venetian red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR101"
+    },
+    "PR101b": {
+        "alias": "",
+        "chemical": "calcinated synthetic red iron oxide (19th century)",
+        "ciecam": {
+            "J": 33,
+            "a": 38,
+            "b": 24
+        },
+        "common_name": "light red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR101"
+    },
+    "PR101c": {
+        "alias": "caput mortuum violet [mars violet], mars violet, mars brown",
+        "chemical": "calcinated synthetic red iron oxide (19th century)",
+        "ciecam": {
+            "J": 33,
+            "a": 37,
+            "b": 18
+        },
+        "common_name": "indian red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR101"
+    },
+    "PR108": {
+        "alias": "cadmium yellow orange, cadmium red orange",
+        "chemical": "cadmium sulfoselenide",
+        "ciecam": {
+            "J": 46,
+            "a": 80,
+            "b": 43
+        },
+        "common_name": "cadmium scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR108"
+    },
+    "PR108b": {
+        "alias": "cadmium red medium",
+        "chemical": "cadmium sulfoselenide (1892; 1910)",
+        "ciecam": {
+            "J": 41,
+            "a": 78,
+            "b": 36
+        },
+        "common_name": "cadmium red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR108"
+    },
+    "PR108c": {
+        "alias": "cadmium purple",
+        "chemical": "cadmium sulfoselenide (1892; 1910)",
+        "ciecam": {
+            "J": 36,
+            "a": 73,
+            "b": 28
+        },
+        "common_name": "cadmium red deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR108"
+    },
+    "PR112": {
+        "alias": "naphthol red, permanent red",
+        "chemical": "naphthol AS-D red (1911)",
+        "ciecam": {
+            "J": 43,
+            "a": 81,
+            "b": 42
+        },
+        "common_name": "naphthol AS red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR112"
+    },
+    "PR122": {
+        "alias": "verzino violet, rose violet, purple magenta, quinacridone purple",
+        "chemical": "quinacridone magenta (1958)",
+        "ciecam": {
+            "J": 37,
+            "a": 71,
+            "b": 1
+        },
+        "common_name": "quinacridone magenta",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR122"
+    },
+    "PR149": {
+        "alias": "",
+        "chemical": "perylene scarlet (1957)",
+        "ciecam": {
+            "J": 35,
+            "a": 68,
+            "b": 29
+        },
+        "common_name": "perylene scarlet",
+        "note": "minor lightfastness issues.",
+        "other_pigment": "",
+        "pigment": "PR149"
+    },
+    "PR168": {
+        "alias": "permanent red light, old holland bright red",
+        "chemical": "anthraquinone scarlet (1913)",
+        "ciecam": {
+            "J": 44,
+            "a": 79,
+            "b": 39
+        },
+        "common_name": "anthraquinone scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR168"
+    },
+    "PR170": {
+        "alias": "naphthol red (mid-tone), permanent red, carmine [hue], permanent red deep, dark red (crimson)",
+        "chemical": "naphthol AS carbamide F3RK (1911; 1963)",
+        "ciecam": {
+            "J": 38,
+            "a": 81,
+            "b": 30
+        },
+        "common_name": "naphthol AS red",
+        "note": "major lightfastness issues.",
+        "other_pigment": "",
+        "pigment": "PR170"
+    },
+    "PR171": {
+        "alias": "naphthamide maroon",
+        "chemical": "benzimidazolone maroon (1960)",
+        "ciecam": {
+            "J": 26,
+            "a": 36,
+            "b": 9
+        },
+        "common_name": "benzimida maroon",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR171"
+    },
+    "PR175": {
+        "alias": "deep scarlet",
+        "chemical": "benzimidazolone red (1960)",
+        "ciecam": {
+            "J": 31,
+            "a": 50,
+            "b": 26
+        },
+        "common_name": "benzimida scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR175"
+    },
+    "PR176": {
+        "alias": "carmine [hue]",
+        "chemical": "benzimidazolone carmine HF3C (1960)",
+        "ciecam": {
+            "J": 32,
+            "a": 66,
+            "b": 24
+        },
+        "common_name": "benzimida carmine",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR176"
+    },
+    "PR177": {
+        "alais": "anthraquinoid red, permanent red deep, burgundy wine red",
+        "alias": "",
+        "chemical": "anthraquinone red (1913)",
+        "ciecam": {
+            "J": 33,
+            "a": 76,
+            "b": 24
+        },
+        "common_name": "anthraquinone red",
+        "note": "major lightfastness issue in certain brands.",
+        "other_pigment": "",
+        "pigment": "PR177"
+    },
+    "PR178": {
+        "alias": "scheveningen red medium",
+        "chemical": "perylene red (1957)",
+        "ciecam": {
+            "J": 35,
+            "a": 73,
+            "b": 28
+        },
+        "common_name": "perylene red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR178"
+    },
+    "PR179": {
+        "alias": "perylene red, maroon perylene",
+        "chemical": "perylene maroon (1957)",
+        "ciecam": {
+            "J": 29,
+            "a": 60,
+            "b": 21
+        },
+        "common_name": "perylene maroon",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR179"
+    },
+    "PR188": {
+        "alias": "scarlet lake, organic vermilion, permanent red",
+        "chemical": "naphthol AS BON arylamide (1911)",
+        "ciecam": {
+            "J": 48,
+            "a": 81,
+            "b": 45
+        },
+        "common_name": "naphthol scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR188"
+    },
+    "PR202": {
+        "alias": "quinacridone fuchsia",
+        "chemical": "quinacridone magenta (1958)",
+        "ciecam": {
+            "J": 33,
+            "a": 69,
+            "b": 12
+        },
+        "common_name": "quinacridone magenta",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR202"
+    },
+    "PR206": {
+        "alias": "quinacridone burnt scarlet, brown madder [hue], transparent red brown, avignon orange",
+        "chemical": "quinacridone maroon (1958)",
+        "ciecam": {
+            "J": 36,
+            "a": 54,
+            "b": 25
+        },
+        "common_name": "quinacridone maroon",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR206"
+    },
+    "PR209": {
+        "alias": "tiziano red, quinacridone coral, cherry red",
+        "chemical": "quinacridone red (1958)",
+        "ciecam": {
+            "J": 46,
+            "a": 80,
+            "b": 32
+        },
+        "common_name": "quinacridone red",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR209"
+    },
+    "PR214": {
+        "alias": "",
+        "chemical": "disazo condensation red (1951)",
+        "ciecam": {
+            "J": 33,
+            "a": 68,
+            "b": 29
+        },
+        "common_name": "scheveningen red deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR214"
+    },
+    "PR216": {
+        "alias": "brown madder [hue]",
+        "chemical": "pyranthrone red deep (1901)",
+        "ciecam": {
+            "J": 39,
+            "a": 68,
+            "b": 30
+        },
+        "common_name": "pyranthrone red deep",
+        "note": "major lightfastness issues.",
+        "other_pigment": "",
+        "pigment": "PR216"
+    },
+    "PR233": {
+        "alias": "",
+        "chemical": "chrome aluminum stannate (c.1780)",
+        "ciecam": {
+            "J": 42,
+            "a": 34,
+            "b": 16
+        },
+        "common_name": "potter's pink",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR233"
+    },
+    "PR242": {
+        "alias": "french vermilion [hue]",
+        "chemical": "disazo condensation scarlet (1960)",
+        "ciecam": {
+            "J": 44,
+            "a": 82,
+            "b": 49
+        },
+        "common_name": "disazo condensation scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR242"
+    },
+    "PR254": {
+        "alias": "winsor red, pyrrol red, permanent red deep, sandal red",
+        "chemical": "diketo-pyrrolo pyrrole red (1983)",
+        "ciecam": {
+            "J": 38,
+            "a": 85,
+            "b": 38
+        },
+        "common name": "pyrrole red",
+        "common_name": "",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR254"
+    },
+    "PR255": {
+        "alias": "pyrrol scarlet, vermilion [hue], permanent red medium",
+        "chemical": "diketo-pyrrolo pyrrole scarlet (1983)",
+        "ciecam": {
+            "J": 44,
+            "a": 81,
+            "b": 41
+        },
+        "common_name": "pyrrole scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR255"
+    },
+    "PR260": {
+        "alias": "vermilion [hue] extra",
+        "chemical": "isoindoline scarlet (1964)",
+        "ciecam": {
+            "J": 42,
+            "a": 79,
+            "b": 36
+        },
+        "common_name": "isoindoline scarlet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR260"
+    },
+    "PR264": {
+        "alias": "pyrrol crimson, winsor red deep, permanent alizarin crimson",
+        "chemical": "diketo-pyrrolo pyrrole rubine (1986)",
+        "ciecam": {
+            "J": 32,
+            "a": 69,
+            "b": 25
+        },
+        "common_name": "pyrrole carmine",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR264"
+    },
+    "PR83": {
+        "alias": "",
+        "chemical": "1-, 2-dihydroxyanthraquinone lake (1868)",
+        "ciecam": {
+            "J": 33,
+            "a": 70,
+            "b": 22
+        },
+        "common_name": "alizarin crimson",
+        "note": "major lightfastness issues.",
+        "other_pigment": "",
+        "pigment": "PR83"
+    },
+    "PR88": {
+        "alias": "permanent violet, garnet lake",
+        "chemical": "thioindigo violet (1905; 1956)",
+        "ciecam": {
+            "J": 29,
+            "a": 50,
+            "b": -2
+        },
+        "common_name": "thioindigo violet",
+        "note": "minor lightfastness issue.",
+        "other_pigment": "",
+        "pigment": "PR88"
+    },
+    "PRna": {
+        "alia": "permanent carmine, permanent alizarin crimson",
+        "alias": "",
+        "chemical": "quinacridone pyrrolidone (1993)",
+        "ciecam": {
+            "J": 33,
+            "a": 74,
+            "b": 26
+        },
+        "common_name": "quinacridone pyrrolidone",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PR N/A"
+    },
+    "PV14": {
+        "alias": "cobalt violet, cobalt magenta, cobalt violet light",
+        "chemical": "cobalt phosphate (1859)",
+        "ciecam": {
+            "J": 46,
+            "a": 33,
+            "b": -32
+        },
+        "common_name": "cobalt violet deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV14"
+    },
+    "PV15": {
+        "alias": "",
+        "chemical": "sodium aluminium sulfosilicate [blue violet shade] (1878)",
+        "ciecam": {
+            "J": 36,
+            "a": 21,
+            "b": -37
+        },
+        "common_name": "ultramarine violet RS",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV15"
+    },
+    "PV15b": {
+        "alias": "ultramarine violet, ultramarine violet deep",
+        "chemical": "sodium aluminium sulfosilicate [blue violet shade] (1878)",
+        "ciecam": {
+            "J": 22,
+            "a": -4,
+            "b": -57
+        },
+        "common_name": "ultramarine violet BS",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV15"
+    },
+    "PV16": {
+        "alias": "permanent mauve, mineral violet, manganese violet-blue",
+        "chemical": "manganese ammonium pyrophosphate (1868)",
+        "ciecam": {
+            "J": 31,
+            "a": 39,
+            "b": -21
+        },
+        "common_name": "manganese violet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV16"
+    },
+    "PV19": {
+        "alias": "permanent rose, primary red - magenta, royal purple lake",
+        "chemical": "gamma quinacridone (1958)",
+        "ciecam": {
+            "J": 44,
+            "a": 72,
+            "b": 13
+        },
+        "common_name": "quinacridone rose",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV19"
+    },
+    "PV19b": {
+        "alias": "quinacridone rose, rose lake, ruby red, red rose deep, alizarin crimson [hue], carmine [hue]",
+        "chemical": "beta quinacridone (1958)",
+        "ciecam": {
+            "J": 33,
+            "a": 71,
+            "b": 25
+        },
+        "common_name": "quinacridone red",
+        "note": "not to be confused with PR209, a slightly redder version of this colour; artist generally refers to the violet(darker) or rose(bluer) hue for when referring to PV19.",
+        "other_pigment": "",
+        "pigment": "PV19"
+    },
+    "PV19c": {
+        "alias": "permanent magenta, permanent red violet",
+        "chemical": "beta quinacridone (1958)",
+        "ciecam": {
+            "J": 27,
+            "a": 58,
+            "b": 7
+        },
+        "common_name": "quinacridone violet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV19"
+    },
+    "PV23": {
+        "alias": "carbazole violet, winsor violet (dioxazine), dioxazine purple, permanent violet bluish, permanent mauve, mauve",
+        "chemical": "dioxazine violet (1952)",
+        "ciecam": {
+            "J": 20,
+            "a": 15,
+            "b": -27
+        },
+        "common_name": "dioxazine violet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV23"
+    },
+    "PV32": {
+        "alias": "bordeaux",
+        "chemical": "benzimidazolone bordeaux (1960)",
+        "ciecam": {
+            "J": 30,
+            "a": 56,
+            "b": 18
+        },
+        "common_name": "benzamida bordeaux",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV32"
+    },
+    "PV39": {
+        "alias": "blue violet",
+        "chemical": "triphenylmethane violet",
+        "ciecam": {
+            "J": 20,
+            "a": 8,
+            "b": -49
+        },
+        "common_name": "crystal violet",
+        "note": "major lightfastness issue.",
+        "other_pigment": "",
+        "pigment": "PV39"
+    },
+    "PV42": {
+        "alias": "magenta",
+        "chemical": "quinacridone pink (1958)",
+        "ciecam": {
+            "J": 35,
+            "a": 74,
+            "b": 16
+        },
+        "common_name": "quinacridone pink",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV42"
+    },
+    "PV49": {
+        "alias": "cobalt violet light",
+        "chemical": "cobalt ammonium phosphate (1859)",
+        "ciecam": {
+            "J": 50,
+            "a": 52,
+            "b": -26
+        },
+        "common_name": "cobalt violet",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PV49"
+    },
+    "PW6": {
+        "alias": "titanium white (opaque white), chinese white [hue]",
+        "chemical": "titanium dioxide (1791)",
+        "ciecam": {
+            "J": 97,
+            "a": 0,
+            "b": 0
+        },
+        "common_name": "titanium white",
+        "note": "this category does not include buff titanium white(PW6).",
+        "other_pigment": "",
+        "pigment": "PW6"
+    },
+    "PY108": {
+        "alias": "indian yellow [hue], gamboge modern",
+        "chemical": "anthrapyrimidine yellow",
+        "ciecam": {
+            "J": 72,
+            "a": 14,
+            "b": 65
+        },
+        "common_name": "anthrapyrimidine yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY108"
+    },
+    "PY110": {
+        "alias": "permanent yellow deep, indian yellow [hue]",
+        "chemical": "isoindolinone yellow R (1964)",
+        "ciecam": {
+            "J": 72,
+            "a": 34,
+            "b": 68
+        },
+        "common_name": "isoindolinone yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY110"
+    },
+    "PY117": {
+        "alias": "greenish yellow",
+        "chemical": "azomethine copper complex (1972)",
+        "ciecam": {
+            "J": 58,
+            "a": -1,
+            "b": 60
+        },
+        "common_name": "copper azomethine",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY117"
+    },
+    "PY119": {
+        "alias": "magnesium brown",
+        "chemical": "zinc magnesium ferrite",
+        "ciecam": {
+            "J": 43,
+            "a": 34,
+            "b": 38
+        },
+        "common_name": "mars yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY119"
+    },
+    "PY120": {
+        "alias": "scheveningen yellow medium",
+        "chemical": "benzimidazolone yellow (1960)",
+        "ciecam": {
+            "J": 80,
+            "a": 8,
+            "b": 75
+        },
+        "common_name": "benzimidia yellow",
+        "note": "major lightfastness issue.",
+        "other_pigment": "",
+        "pigment": "PY120"
+    },
+    "PY129": {
+        "alias": "green gold, golden green, azo green",
+        "chemical": "azomethine copper complex (1972)",
+        "ciecam": {
+            "J": 53,
+            "a": 4,
+            "b": 49
+        },
+        "common_name": "copper azomethine",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY129"
+    },
+    "PY139": {
+        "alias": "permanent yellow deep",
+        "chemical": "isoindoline yellow (1964)",
+        "ciecam": {
+            "J": 72,
+            "a": 35,
+            "b": 68
+        },
+        "common_name": "isoindolinone yellow deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY139"
+    },
+    "PY150": {
+        "alias": "nickel azo yellow, transparent yellow, translucent yellow",
+        "chemical": "nickel azomethine yellow (1970)",
+        "ciecam": {
+            "J": 67,
+            "a": 14,
+            "b": 61
+        },
+        "common_name": "nickel azomethine",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY150"
+    },
+    "PY151": {
+        "alias": "azo yellow (aureolin [hue]), aureolin modern",
+        "chemical": "benzimidazolone yellow (1960)",
+        "ciecam": {
+            "J": 84,
+            "a": -1,
+            "b": 75
+        },
+        "common_name": "benzimida yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY151"
+    },
+    "PY153": {
+        "alias": "new gamboge,indian yellow [hue]",
+        "chemical": "nickel dioxine yellow (1963)",
+        "ciecam": {
+            "J": 71,
+            "a": 29,
+            "b": 69
+        },
+        "common_name": "nickel dioxine yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY153"
+    },
+    "PY154": {
+        "alias": "winsor yellow, sennelier yellow light, azo yellow light",
+        "chemical": "benzimidazolone yellow H3G (1960)",
+        "ciecam": {
+            "J": 83,
+            "a": 1,
+            "b": 77
+        },
+        "common_name": "benzimida yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY154"
+    },
+    "PY175": {
+        "alias": "winsor lemon,permanent yellow lemon",
+        "chemical": "benzimidazolone yellow H6G (1960)",
+        "ciecam": {
+            "J": 83,
+            "a": -8,
+            "b": 64
+        },
+        "common_name": "benzimida lemon",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY175"
+    },
+    "PY184": {
+        "alias": "vanadium yellow, permanent lemon yellow",
+        "chemical": "bismuth vanadate (1924)",
+        "ciecam": {
+            "J": 87,
+            "a": -8,
+            "b": 68
+        },
+        "common_name": "bismuth yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY184"
+    },
+    "PY3": {
+        "alias": "lemon yellow, helio genuine yellow lemon, lemon yellow",
+        "chemical": "arylide yellow 10G (1909)",
+        "ciecam": {
+            "J": 88,
+            "a": -12,
+            "b": 72
+        },
+        "common_name": "hansa yellow light",
+        "note": "major lightfastness issue in certain brands.",
+        "other_pigment": "",
+        "pigment": "PY3"
+    },
+    "PY35": {
+        "alias": "cadmium yellow lemon",
+        "chemical": "cadmium zinc sulfide (1844)/cadmium sulfide (1842)",
+        "ciecam": {
+            "J": 89,
+            "a": -10,
+            "b": 71
+        },
+        "common_name": "cadmium lemon",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY35"
+    },
+    "PY35b": {
+        "alias": "",
+        "chemical": "cadmium zinc sulfide (1844)/cadmium sulfide (1842)",
+        "ciecam": {
+            "J": 86,
+            "a": -4,
+            "b": 77
+        },
+        "common_name": "cadmium yellow pale",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY35"
+    },
+    "PY35c": {
+        "alias": "",
+        "chemical": "cadmium zinc sulfide (1844)/cadmium sulfide (1842)",
+        "ciecam": {
+            "J": 86,
+            "a": -2,
+            "b": 77
+        },
+        "common_name": "cadmium yellow light",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY35"
+    },
+    "PY35d": {
+        "alias": "",
+        "chemical": "cadmium zinc sulfide (1844)/cadmium sulfide (1842)",
+        "ciecam": {
+            "J": 81,
+            "a": 11,
+            "b": 78
+        },
+        "common_name": "cadmium yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY35"
+    },
+    "PY35e": {
+        "alias": "",
+        "chemical": "cadmium zinc sulfide (1844)/cadmium sulfide (1842)",
+        "ciecam": {
+            "J": 71,
+            "a": 34,
+            "b": 68
+        },
+        "common_name": "cadmium yellow deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY35"
+    },
+    "PY40": {
+        "alias": "",
+        "chemical": "potassium cobaltinitrite(1848; 1861)",
+        "ciecam": {
+            "J": 77,
+            "a": 2,
+            "b": 69
+        },
+        "common_name": "aureolin",
+        "note": "major lightfastness issue.",
+        "other_pigment": "",
+        "pigment": "PY40"
+    },
+    "PY42": {
+        "alias": "yellow ochre, raw sienna, burnt sienna, transparent yellow oxide",
+        "chemical": "synthetic yellow iron oxide (19th century)",
+        "ciecam": {
+            "J": 53,
+            "a": 24,
+            "b": 44
+        },
+        "common_name": "mars yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY42"
+    },
+    "PY42b": {
+        "alias": "raw sienna deep",
+        "chemical": "synthetic yellow iron oxide (19th century)",
+        "ciecam": {
+            "J": 50,
+            "a": 37,
+            "b": 45
+        },
+        "common_name": "gold ochre",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY42"
+    },
+    "PY43": {
+        "alias": "yellow ochre light, verona gold ochre, french ochre, italian deep ochre, gold ochre, raw sienna",
+        "chemical": "natural yellow iron oxide [limonite] (antiquity)",
+        "ciecam": {
+            "J": 58,
+            "a": 22,
+            "b": 45
+        },
+        "common_name": "yellow ochre",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY43"
+    },
+    "PY53": {
+        "alias": "lemon yellow, nickel titanate yellow",
+        "chemical": "nickel titanium oxide (1963)",
+        "ciecam": {
+            "J": 85,
+            "a": -2,
+            "b": 46
+        },
+        "common_name": "nickel titanate",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY53"
+    },
+    "PY65": {
+        "alias": "winsor yellow deep",
+        "chemical": "arylide yellow 3RN (1952)",
+        "ciecam": {
+            "J": 77,
+            "a": 24,
+            "b": 75
+        },
+        "common_name": "hansa yellow deep",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY65"
+    },
+    "PY97": {
+        "alias": "hansa yellow medium, primary yellow, arylide yellow FGL, hansa yellow deep",
+        "chemical": "arylide yellow FGL (1953)",
+        "ciecam": {
+            "J": 85,
+            "a": -2,
+            "b": 80
+        },
+        "common_name": "hansa yellow",
+        "note": "",
+        "other_pigment": "",
+        "pigment": "PY97"
+    }
+}
