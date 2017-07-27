@@ -1,16 +1,17 @@
 # CIECAM02 Viewer
-CIECAM02 Viewer is CIECAM02-based colour space browser, colour schemer, and image mapping software.
+CIECAM02 Viewer is a CIECAM02-based colour space browser, colour schemer, and image mapping software.
 
 ## Authors
 
 - Long Huynh  — main developer (longp.huynh@gmail.com)
 
-## Source Papers/Credits
+## Source Papers/References
 
 - Fairchild, Mark D. Color Appearance Models Second Edition. 2005. John Wiley & Sons Ltd.
 - Hu, Guosheng et al. An Interactive Method for Generating Harmonious Color Schemes. 2012. COLOR research and application. DOI 10.1002/col.21762.
 - Hu, Guosheng et al. A User-Oriented Method for Preferential Color Scheme Generation, 2014. COLOR research and application.  DOI 10.1002/col.21860.
 - Yamazaki, Hideki and Kondo, Kunio. A Method of Changing a Color Scheme with Kansei Scales. 1999. Journal for Geometry and Graphics Volume 3, No. 1, 77–84.
+- MacEvoy, Bruce. Guide to watercolor pigments. http://handprint.com/HP/WCL/waterfs.html
 
 ## Downloads
 
@@ -44,4 +45,4 @@ CIECAM02 Viewer is CIECAM02-based colour space browser, colour schemer, and imag
 
 ## Known Issues
 
-- Standard Illuminant E is known to give  erratic results. This is likely due to a div/0 error. However, given the multi-step complexity of the CIE XYZ -> CIECAM02 conversion process, the author of this program has not yet determined whether this div/0 is due to plugging in known values too early or if Standard Illuminant E is simply incompatible with the CIECAM02 colour space.
+- Standard Illuminant E is known to give  erratic results. This is likely due to a div/0 error. However, given the multi-step complexity of the CIE XYZ -> CIECAM02 conversion process, the author of this program has not yet determined whether this div/0 is due to plugging in known values too early or if Standard Illuminant E is simply incompatible with the CIECAM02 colour space. 
