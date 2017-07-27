@@ -1,5 +1,5 @@
 # CIECAM02 Viewer
-CIECAM02 Viewer is CIECAM02 based colour space browser, colour schemer, and image colour mapping software.
+CIECAM02 Viewer is CIECAM02-based colour space browser, colour schemer, and image mapping software.
 
 ## Authors
 
@@ -11,6 +11,10 @@ CIECAM02 Viewer is CIECAM02 based colour space browser, colour schemer, and imag
 - Hu, Guosheng et al. An Interactive Method for Generating Harmonious Color Schemes. 2012. COLOR research and application. DOI 10.1002/col.21762.
 - Hu, Guosheng et al. A User-Oriented Method for Preferential Color Scheme Generation, 2014. COLOR research and application.  DOI 10.1002/col.21860.
 - Yamazaki, Hideki and Kondo, Kunio. A Method of Changing a Color Scheme with Kansei Scales. 1999. Journal for Geometry and Graphics Volume 3, No. 1, 77–84.
+
+## Downloads
+
+- Windows(x64): https://github.com/LPHuynh/ciecamviewer/releases
 
 ## Compiling
 
