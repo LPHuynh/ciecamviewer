@@ -50,7 +50,10 @@ mColorScheme(mColorWheel.vc), mTempPigment(mColorWheel.vc), mPigment(mColorWheel
     pigment.a = 0;
     pigment.b = 0;
 
-    mImageColor.pigmentList.push_back(pigment);  //make sure there's atleast 1 pigment in list to avoid out of scope error
+	if (sf::VideoMode::getDesktopMode().height < 1000)
+	{
+		mWindow.setSize(sf::Vector2u(1080, 600));
+	}
 }
 
 
