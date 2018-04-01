@@ -19,8 +19,8 @@ CIECAM02 Viewer is a CIECAM02-based colour space browser, colour schemer, and im
 
 ## Compiling
 
-- Requires SFML (https://www.sfml-dev.org/) and imgui-sfml (https://github.com/eliasdaler/imgui-sfml) as dependencies.
-- JSON for Modern C++ (https://github.com/nlohmann/json) is included with the project.
+- Requires SFML (https://www.sfml-dev.org/) as dependencies.
+- imgui-sfml (https://github.com/eliasdaler/imgui-sfml) and JSON for Modern C++ (https://github.com/nlohmann/json) is included with the project.
 
 ## Usage
 
