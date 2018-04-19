@@ -468,8 +468,7 @@
         "pigment": "PO20"
     },
     "PO36": {
-        "alia": "permanent vermilion, benzimida orange deep",
-        "alias": "",
+        "alias": "permanent vermilion, benzimida orange deep",
         "chemical": "benzimidazolone scarlet (1960)",
         "ciecam": {
             "J": 48,
@@ -482,8 +481,7 @@
         "pigment": "PO36"
     },
     "PO43": {
-        "alia": "orange lake",
-        "alias": "",
+        "alias": "orange lake",
         "chemical": "perinone orange (1965)",
         "ciecam": {
             "J": 53,
@@ -522,8 +520,7 @@
         "pigment": "PO49"
     },
     "PO62": {
-        "alia": "permanent orange, winsor orange, benzimidazolone orange, helio genuine orange, azo orange",
-        "alias": "",
+        "alias": "permanent orange, winsor orange, benzimidazolone orange, helio genuine orange, azo orange",
         "chemical": "benzimidazolone orange H5G (1960)",
         "ciecam": {
             "J": 65,
@@ -575,8 +572,7 @@
         "pigment": "PO71"
     },
     "PO73": {
-        "alia": "winsor orange RS, warm orange, scarlet pyrrol",
-        "alias": "",
+        "alias": "winsor orange RS, warm orange, scarlet pyrrol",
         "chemical": "diketo-pyrrolo pyrrole orange (1984)",
         "ciecam": {
             "J": 50,
@@ -771,8 +767,7 @@
         "pigment": "PR176"
     },
     "PR177": {
-        "alais": "anthraquinoid red, permanent red deep, burgundy wine red",
-        "alias": "",
+        "alias": "anthraquinoid red, permanent red deep, burgundy wine red",
         "chemical": "anthraquinone red (1913)",
         "ciecam": {
             "J": 33,
@@ -993,8 +988,7 @@
         "pigment": "PR88"
     },
     "PRna": {
-        "alia": "permanent carmine, permanent alizarin crimson",
-        "alias": "",
+        "alias": "permanent carmine, permanent alizarin crimson",
         "chemical": "quinacridone pyrrolidone (1993)",
         "ciecam": {
             "J": 33,
